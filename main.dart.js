@@ -78694,17 +78694,12 @@ $S:0}
 A.a2K.prototype={
 $0(){var s,r,q,p,o
 $.ak3=!0
-r=$.a3G
-q=r.length
-p=0
-while(!0){if(!(p<r.length)){s=!1
-break}o=r[p]
+for(s=$.a3G,r=s.length,q=!1,p=0;p<s.length;s.length===r||(0,A.B)(s),++p){o=s[p]
 new A.a2H().$0()
 o.c.cl()
-if(o.r&&o.gPN()!=null){s=!0
-break}r.length===q||(0,A.B)(r);++p}A.oz(s)
+if(o.r&&o.gPN()!=null)q=!0}A.oz(q)
 A.oz($.ak3)
-if(!s){$.avV().lL(!0)
+if(!q){$.avV().lL(!0)
 this.a.Fd()}},
 $S:0}
 A.a2H.prototype={
