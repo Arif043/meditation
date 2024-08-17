@@ -78646,7 +78646,7 @@ s=this.e
 s.L$=r
 s.J$=0},
 S(a){var s=this,r=null,q=s.r,p=t.E
-return A.a9s(A.mb(new A.dZ(B.m3,new A.dD(200,120,A.Ed(A.b([A.Ej(r,A.apx(A.b([new A.r6(s.d,new A.a3D(s),r,r,t.ue),B.Lg,A.io("Minuten",r,r,r,A.Z(a).p2.w,r,r),A.aod(B.hT,new A.dD(20,20,A.pq(r,new A.FW(new A.tG("assets/images/icons8-trash-24.png"),B.rQ,r),B.aE,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3E(s),r,r,r),new A.lp(s.f,t.f3)),new A.a3F(),r)],p),B.cI,B.ed),B.O,r,r,r,r,r,r),new A.dD(r,5,r,r),A.anU(A.aq4(s.e,A.ajK(r,new A.fG(4,B.dp,B.i0),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Atmen, Luft anhalten, ...",r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,B.be))],p),B.iw,B.cT,B.ed),r),r),r,r),q)}}
+return A.a9s(A.mb(new A.dZ(B.m3,new A.dD(250,120,A.Ed(A.b([A.Ej(r,A.apx(A.b([new A.r6(s.d,new A.a3D(s),r,r,t.ue),B.Lg,A.io("Minuten",r,r,r,A.Z(a).p2.w,r,r),A.aod(B.hT,new A.dD(20,20,A.pq(r,new A.FW(new A.tG("assets/images/icons8-trash-24.png"),B.rQ,r),B.aE,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.a3E(s),r,r,r),new A.lp(s.f,t.f3)),new A.a3F(),r)],p),B.cI,B.ed),B.O,r,r,r,r,r,r),new A.dD(r,5,r,r),A.anU(A.aq4(s.e,A.ajK(r,new A.fG(4,B.dp,B.i0),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Atmen, Luft anhalten, ...",r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,B.be))],p),B.iw,B.cT,B.ed),r),r),r,r),q)}}
 A.a3D.prototype={
 $3(a,b,c){var s=null,r=this.a,q=$.ak3?r.gPN():s
 return A.anU(A.aq4(r.d,A.ajK(s,new A.fG(4,B.dp,B.i0),s,s,s,s,s,s,!0,s,s,s,s,s,q,B.rQ,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),B.Mu,B.hu))},
