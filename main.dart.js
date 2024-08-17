@@ -78665,7 +78665,7 @@ B.b.C($.a3G,s)},
 $S:0}
 A.GF.prototype={
 S(a){var s=null
-return new A.w4(B.Ha,"Flutter Demo",A.qT(s,A.ax4(B.aa,B.GZ),!0),A.qT(B.an,s,s),B.xZ,s)}}
+return new A.w4(B.Ha,"meditation",A.qT(s,A.ax4(B.aa,B.GZ),!0),A.qT(B.an,s,s),B.xZ,s)}}
 A.wh.prototype={
 ap(){return new A.GG(B.k)}}
 A.GG.prototype={
